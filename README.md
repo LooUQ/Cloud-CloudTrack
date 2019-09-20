@@ -1,6 +1,5 @@
 
-![corezero](https://drive.google.com/uc?id=118pAlx0MFNZUSN_hTOjFabAlGa8wRKSy)
-
+![LooUQ Cloud](https://drive.google.com/uc?id=1lWjYY4PHnL0jU3J_aOx5PZHbRjnhVWXe)
 ----
 
 # Cloud-CloudTrack
