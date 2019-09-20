@@ -1,5 +1,5 @@
-# Cloud-CloudTrack
- Simple charting application that allows you to visualize your LooUQ Cloud IoT device data streams.
+# LooUQ Cloud - CloudTrack
+Simple charting application that allows you to visualize your LooUQ Cloud IoT device data streams quickly and easily without writing code.
  
 ![LooUQ Cloud](https://drive.google.com/uc?id=1lWjYY4PHnL0jU3J_aOx5PZHbRjnhVWXe)
 ----
@@ -7,6 +7,8 @@
 Watch example here >> https://www.youtube.com/watch?v=cB3KZMS5gcU
 
 The Cloud Track configuration in this repo contains values that you can use immediately. LooUQ maintains a demo device that is accessible for your testing use. Our sample data stream simulates a blustery day up here in Traverse City, Michigan. Launch Visual Studio, load the solution, and see it chart.
+
+You can download a pre-built, ready to run version here <https://drive.google.com/open?id=1dwypK2ETg2NcufGkBwLIhuu09mPGXDc7>. 
  
 ## To Get Started
 1. Download CloudTrack
