@@ -1,0 +1,31 @@
+{
+  "userName": "CloudTrack",
+  "password": "VodeqaeEmCBrcwpAynS0iFbJS1b9alRVIsI3qzzdDefqS7NH",
+  "chart": {
+    "title": "CloudTrack Example",
+    "sampleCount": 25,
+    "timezoneOffset": -5,
+    "timeFormat": "hh:mm:ss tt"
+  },
+  "stream": {
+    "deviceId": "abd9005a-2a19-4503-91a3-aaee7d7519db",
+    "filter": "eventMeta.eventType = \"tdat\"",
+    "sampleIntervalSeconds": 15,
+    "samplePrefetchMinutes": 0
+  },
+  "seriesConfig": [
+    {
+      "path": "eventBody.telemetry.WindSpeed",
+      "color": "Blue",
+      "units": " MPH",
+      "lineSmoothness": 1.0,
+      "min": 1,
+      "max": true
+    },
+    {
+      "name": "Battery Volts",
+      "path": "eventBody.telemetry.BatteryVoltage",
+      "color": "Red"
+    }
+  ]
+}
