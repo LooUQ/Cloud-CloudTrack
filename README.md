@@ -1,5 +1,7 @@
 
-![LooUQ Cloud](https://drive.google.com/open?id=1lWjYY4PHnL0jU3J_aOx5PZHbRjnhVWXe)
+![corezero](https://drive.google.com/uc?id=118pAlx0MFNZUSN_hTOjFabAlGa8wRKSy)
+
+----
 
 # Cloud-CloudTrack
  Simple charting application that allows you to visualize your LooUQ Cloud IoT device data streams.
