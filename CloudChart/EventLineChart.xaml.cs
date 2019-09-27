@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Windows.Threading;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
 
     /// <summary>

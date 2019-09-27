@@ -2,7 +2,7 @@
   "userName": "CloudTrack",
   "password": "VodeqaeEmCBrcwpAynS0iFbJS1b9alRVIsI3qzzdDefqS7NH",
   "chart": {
-    "title": "CloudTrack Example",
+    "title": "CloudChart Example",
     "sampleCount": 25,
     "timezoneOffset": -5,
     "timeFormat": "hh:mm:ss tt"

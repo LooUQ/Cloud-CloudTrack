@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     public class EventStream : INotifyPropertyChanged
     {

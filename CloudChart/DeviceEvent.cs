@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     public class DeviceEvent
     {

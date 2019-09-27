@@ -3,7 +3,7 @@ using Newtonsoft.Json.Converters;
 using System;
 using System.Runtime.Serialization;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     class StreamOptions
     {

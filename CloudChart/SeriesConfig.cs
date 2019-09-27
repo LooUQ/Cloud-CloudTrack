@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using System.Windows.Media;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     public class SeriesConfig
     {

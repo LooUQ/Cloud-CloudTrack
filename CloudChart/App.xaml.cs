@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     /// <summary>
     /// Interaction logic for App.xaml
@@ -17,8 +17,8 @@ namespace Loouq.CloudTrack
             if (!configLoaded || AppConfig.SeriesConfigurations.Count == 0)
             {
                 var dialogBoxResult = MessageBox.Show(
-                                        "Unable to configure data series based on configuration in the ChartSettings.json file. CloudTrack will now close.",
-                                        "LooUQ CloudTrack",
+                                        "Unable to configure data series based on configuration in the ChartSettings.json file. CloudChart will now close.",
+                                        "LooUQ CloudChart",
                                         MessageBoxButton.OK,
                                         MessageBoxImage.Asterisk
                 );
@@ -41,8 +41,8 @@ namespace Loouq.CloudTrack
             if (!streamAvailable)
             {
                 var dialogBoxResult = MessageBox.Show(
-                        "Unable to open LooUQ Cloud event stream using the information in the ChartSettings.json, CloudTrack will now close.",
-                        "LooUQ CloudTrack",
+                        "Unable to open LooUQ Cloud event stream using the information in the ChartSettings.json, CloudChart will now close.",
+                        "LooUQ CloudChart",
                         MessageBoxButton.OK,
                         MessageBoxImage.Asterisk
                 );

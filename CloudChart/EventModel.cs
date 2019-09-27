@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     public class EventModel
     {

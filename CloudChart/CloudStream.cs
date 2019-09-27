@@ -7,7 +7,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     /// <summary>
     /// Processes LooUQ Cloud stream tasks (open stream, get event doc , close stream)

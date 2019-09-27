@@ -7,7 +7,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Media;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     public static class AppConfig
     {
@@ -102,7 +102,7 @@ namespace Loouq.CloudTrack
                     {
                         var dialogBoxResult = MessageBox.Show(
                             string.Format("Data series path: {0} is empty or invalid. No data for this series will be processed", (string)series["path"]),
-                            "CloudTrack: ChartSettings.json Invalid",
+                            "CloudChart: ChartSettings.json Invalid",
                             MessageBoxButton.OK,
                             MessageBoxImage.Asterisk
                         );

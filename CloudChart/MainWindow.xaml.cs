@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows;
 
-namespace Loouq.CloudTrack
+namespace Loouq.CloudChart
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

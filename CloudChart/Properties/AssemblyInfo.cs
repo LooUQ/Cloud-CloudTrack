@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CloudTrack")]
-[assembly: AssemblyDescription("LooUQ Cloud - CloudTrack Data Visualization Tool")]
+[assembly: AssemblyTitle("CloudChart")]
+[assembly: AssemblyDescription("LooUQ Cloud - CloudChart Data Visualization Tool")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LooUQ Incorporated")]
-[assembly: AssemblyProduct("Cloud Track")]
+[assembly: AssemblyProduct("CloudChart")]
 [assembly: AssemblyCopyright("Copyright © 2019 LooUQ Incorporated")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -51,5 +51,5 @@ using System.Windows;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.253")]
-[assembly: AssemblyFileVersion("1.0.0.253")]
+[assembly: AssemblyVersion("1.0.0.255")]
+[assembly: AssemblyFileVersion("1.0.0.255")]
